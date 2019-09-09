@@ -1,5 +1,9 @@
-# KNOTE
-KNowledge-based Oversampling TEchnique
+# KNOTE (KNowledge-based Oversampling TEchnique)
+
+*KNOTE* is a script written in R that allows the enrichment of 
+unbalanced data from genomics or biomedical studies, to be used
+in machine learning or deep learning predictions.
+
 
 Source code
 -----------
